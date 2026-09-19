@@ -71,7 +71,7 @@ python main.py
 
 ![全部通关](screenshots/全部通关.png)
 
-### 动态演示
+### 动态演示（GIF不会循环播放，建议点击查看）
 
 ![完整游戏流程演示](screenshots/最终版本测试.gif)
 
